@@ -1,0 +1,64 @@
+.navbar-dark {
+    background: #e20010 !important;
+    border-bottom-color: rgba(255, 255, 255, .1)
+}
+
+.sidebar-dark{
+    background: #e20010 !important;
+    border-bottom-color: rgba(255, 255, 255, .1)
+}
+
+.sidebar-dark .nav-sidebar > .nav-item-open > .nav-link:not(.disabled), .sidebar-dark .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light .card[class*=bg-]:not(.bg-light):not(.bg-white):not(.bg-transparent) .nav-sidebar > .nav-item-open > .nav-link:not(.disabled), .sidebar-light .card[class*=bg-]:not(.bg-light):not(.bg-white):not(.bg-transparent) .nav-sidebar > .nav-item > .nav-link.active {
+    background-color: #931414 !important;
+    color: #fff;
+}
+
+
+.header-elements-inline{
+    background-color: #931414 !important;
+}
+
+.header-elements-inline > h6{
+    color: white !important;
+}
+
+.header-elements-inline > h5{
+    color: white !important;
+}
+
+
+.wizard > .steps > ul > li.current .number {
+    font-size: 0;
+    border-color: #e20010 !important;
+    background-color: #fff;
+    color: #e20010 !important;
+}
+
+.wizard > .steps > ul > li.done .number {
+
+    font-size: 0;
+    background-color:#e20010 !important;
+    border-color: #e20010 !important;
+    color: #fff;
+}
+
+.wizard > .steps > ul > li:before, .wizard > .steps > ul > li:after {
+
+    background-color:#e20010 !important;
+
+}
+
+.wizard>.steps>ul>li.current:after, .wizard>.steps>ul>li.current~li:after, .wizard>.steps>ul>li.current~li:before {
+    background-color: #eee !important;
+}
+
+.pricetagsp{
+    margin: 10px;
+    /*color: #ff9600;*/
+    color: #250200;
+}
+
+.sidebar-dark .sidebar-mobile-toggler:not([class*=bg-]) {
+    background-color: #e20010 !important;
+}
+

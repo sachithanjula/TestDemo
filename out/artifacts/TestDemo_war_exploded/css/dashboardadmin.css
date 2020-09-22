@@ -1,0 +1,14 @@
+.statCard{
+    cursor: pointer;
+}
+
+.card-outer{
+    border-radius: 10px;
+    box-shadow: 0.5rem 0.5rem 0.5rem #cecece;
+    /*border-color: black !important;*/
+    width: 300px !important;
+
+}
+.card-inner{
+    border-radius: 10px;
+}

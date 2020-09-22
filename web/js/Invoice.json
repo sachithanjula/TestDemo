@@ -1,0 +1,48 @@
+{
+    "Details": {
+        "AccountNumber": 8004514118,
+        "InvoiceNumber": 6,
+        "BillDate": "2020-10-31",
+        "BillPeriod": "2020-9-31 to  2020-10-31",
+        "DueDate": "2020-10-31",
+        "VATRegNo": 10
+    },
+    "Address": "M/S Textware Pvt Limited,Mr E P C Ruwan Kumara,3rd Floor  No 255/2,Kirula Road,Colombo 05,011-7896523",
+    "This_Month_Charges": {
+        "OneTime_Charges": 789.50,
+        "Monthly_Rental": 100.25,
+        "Usage_Charges": 1560.00,
+        "Discount_Charges": 1400.00,
+        "Taxes": 1950.00,
+        "VAT": 1200.00
+    },
+    "Your_Account_Summery": {
+        "Previous_Balance": 1200.00,
+        "Payments": 8000.00,
+        "Adjustments": 7800,
+        "Arrears": 7000,
+        "ThisMonth_Charge": 5962.00,
+        "Amount_Payable": 18000.00
+    },
+    "ThisMonthCharge": 7890.00,
+    "Charges_in_Details": {
+        "OneTimeCharges_charges": 1200,
+        "OneTimeCharges_discount": 5200,
+        "OneTimeCharges_net_Total": 1560.00,
+        "MonthlyRentals_Charges": 1230.00,
+        "MonthlyRentals_discount": 2300,
+        "MonthlyRentals_net_Total": 8900.00,
+        "UsageDate": "2020/5/01 -   2020/5/31",
+        "CallCharge_Charges": 4500.00,
+        "CallCharge_discount": 4200,
+        "ValueAddeService_Charges": 1600.00,
+        "ValueAddedService_Discount": 1200.00,
+        "MobileInternetUsage_Charges": 1450.00,
+        "MobileInternetUsage_Discount": 1100,
+        "Roaming_Charges": 400.00,
+        "Roaming_Discount": 4500.00,
+        "Roaming_Total": 1200.00
+    },
+    "Taxes": 1896,
+    "ThisMonthChargesRs": 27500.00
+}

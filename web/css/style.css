@@ -1,0 +1,40 @@
+.nav-toggle{
+    margin-top: -25px;
+    margin-left: -16px;
+}
+
+.media-body-top{
+    margin-top: -10px;
+}
+
+.nav-sidebar-top{
+    margin-top: -23px;
+}
+
+.horizontalCenter{
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-align-content: center;
+    align-content: center;
+}
+
+.navback {
+    background: #e20010 !important;
+    border-bottom-color: rgba(255, 255, 255, .1)
+}
+
+.vibercolor{
+    background-color: #8F5DB7;
+}
+
+.whatsappcolor{
+    background-color: #25D366;
+}
+.smscolor{
+    background-color: orange;
+}
+.obdColor{
+    background-color: #850606;
+}
